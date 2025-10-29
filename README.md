@@ -1,10 +1,9 @@
-<h2 align="center"> Hi! I'm Rehan 👋</h2> <br/>
+<h2 align="center"> Hi! I'm Rehan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> </h2> <br/>
+
 🎓 I graduated from yarsi university and Digital Skola.<br/>
 👨🏼‍💻 I'm passionate about Quality Assurance Engineering.<br/>
 🤝 I'm currently a job seeker.<br/>
-📫 Feel free to reach me here : <ins> raihanmumtaz9@gmail.com </ins>
-
-<br/>
+📫 Feel free to reach me here : raihanmumtaz9@gmail.com
 <br/>
 
 - You can view my ![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) profile here : [**Raihan Mumtaz**](http://www.linkedin.com/in/raihan-mumtaz)
